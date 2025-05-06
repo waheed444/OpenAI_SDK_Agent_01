@@ -1,4 +1,4 @@
-# 🤖 Introduction to OpenAI Agent SDK powered by Google Gemini 
+# 🤖 Introduction to OpenAI Agent SDK by Gimini 
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/)
@@ -7,14 +7,13 @@
 
 ## Table of Contents 🚀
 
+* [Official Documentation](https://openai.github.io/openai-agents-python/)
 * [Description](#description)
 * [Features](#features)
 * [Installation](#installation)
 * [Usage](#usage)
 * [Contributing](#contributing)
 * [License](#license)
-
-⚡ * [Official Documentation ](https://openai.github.io/openai-agents-python/)
 
 ## Description
 
