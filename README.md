@@ -22,8 +22,6 @@ The OpenAI Agents SDK enables you to build agentic AI apps in a lightweight, eas
 In this implementation, the AI agent is tasked with recommending high-income skills for 2025, showcasing its ability to deliver relevant and valuable information. By leveraging the Gemini 2.0 Flash model, the system benefits from fast and efficient language generation.This setup reflects a modular, production-ready approach for integrating third-party large language models (LLMs) into custom AI solutions.
 
 
-
-
 ## Features
 
 * 🤖 **Custom AI Agent:** Built using the Agent and Runner pattern for modularity and scalability.
@@ -33,6 +31,15 @@ In this implementation, the AI agent is tasked with recommending high-income ski
 * ⚡ **Asynchronous Communication:**  Leverages `AsyncOpenAI` for optimized asynchronous communication with OpenAI, improving speed and responsiveness.
 * 🐍 **Clean Python Codebase:**  Maintained with a focus on readability, modularity, and best practices.
 
+## Prerequisites
+
+Before getting started, make sure you have the following:
+- **Python 3.8+** installed on your system.
+- Basic knowledge of Python programming.
+- Familiarity with virtual environments and dependency management.
+- Git installed to clone the repository.
+
+---
 
 ## Installation
 
@@ -61,6 +68,8 @@ pip install openai-agents python-dotenv
 
 ```
 
+*(If a requirements file is not available, check `pyproject.toml` for dependency instructions.)*
+
 4. **Set up `.env` file:**
 
 Create a `.env` file in the root directory and add your Gemini API key:
@@ -73,6 +82,11 @@ GIMINI_API_KEY  =  your_actual_gemini_api_key_here
 
 
 ## Usage
+
+After setting up the project, you can run the AI agent by executing the main script in the `src/agent_01` directory.For example:
+```bash
+python src/agent_01/main.py
+```
 
 The agent is designed to provide insightful responses to various prompts.  For example, a prompt such as "What are the most in-demand skills for high income in 2025?" might produce output similar to:
 
