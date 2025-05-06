@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/waheed444/OpenAI_SDK_Agent_01)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/waheed444/OpenAI_SDK_Simple_Agent)
 
 
 ## Table of Contents 🚀
@@ -46,8 +46,8 @@ Before getting started, make sure you have the following:
 1. **Clone the Repository:**
 
 ```bash
-git clone https://github.com/waheed444/OpenAI_SDK_Agent_01.git
-cd OpenAI_SDK_Agent_01
+git clone https://github.com/waheed444/OpenAI_SDK_Simple_Agent.git
+cd OpenAI_SDK_Simple_Agent
 ```
 
 2. **Create and Activate a Virtual Environment:**
@@ -110,7 +110,7 @@ We welcome contributions to improve this project! Please follow these steps:
 4. **Commit your changes:** `git commit -m "Add feature"`
 5. **Push to the branch:** `git push origin feature-name`
 6. **Submit a pull request** with a clear description of your changes and their benefits.
-If you find any issues or want to improve this project, feel free to open a [GitHub issue](https://github.com/waheed444/OpenAI_SDK_Agent_01/issues) or submit a pull request.
+If you find any issues or want to improve this project, feel free to open a [GitHub issue](https://github.com/waheed444/OpenAI_SDK_Simple_Agent/issues) or submit a pull request.
 
 This repo is only for learning and exploring new things, feel free to fork it, explore, or give suggestions!
 
